@@ -69,14 +69,10 @@ Rainfall	100 mm
 🟢 Output: Recommended Crop → Jute / Rice / etc. (based on prediction)
 🚀 How to Run Locally
 
-1. Clone the repo:
-git clone https://github.com/aayush2004-hack/Crop-Recommendation-System.git
-cd Crop-Recommendation-System
-
-2. Install dependencies:
+1. Install dependencies:
 pip install -r requirements.txt
 
-3. Run the app:
+2. Run the app:
 streamlit run app.py
 
 🌍 Deployment
