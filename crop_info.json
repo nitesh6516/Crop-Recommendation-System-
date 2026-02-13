@@ -1,0 +1,90 @@
+{
+  "rice": {
+    "climate": "Hot and humid with standing water",
+    "tip": "Grows well in clay soils and high rainfall areas"
+  },
+  "maize": {
+    "climate": "Warm with moderate rainfall",
+    "tip": "Prefers well-drained fertile soils"
+  },
+  "chickpea": {
+    "climate": "Cool and dry climate",
+    "tip": "Best grown in sandy loam soil with low moisture"
+  },
+  "kidneybeans": {
+    "climate": "Mild warm climate",
+    "tip": "Requires well-drained loamy soil and moderate watering"
+  },
+  "pigeonpeas": {
+    "climate": "Warm and semi-arid regions",
+    "tip": "Tolerant to drought, needs minimal irrigation"
+  },
+  "mothbeans": {
+    "climate": "Hot and dry climate",
+    "tip": "Grows well in sandy and loamy soils with low rainfall"
+  },
+  "mungbean": {
+    "climate": "Warm and dry climate",
+    "tip": "Requires well-drained loamy to sandy loam soil"
+  },
+  "blackgram": {
+    "climate": "Hot and humid climate",
+    "tip": "Prefers loamy soil and moderate rainfall"
+  },
+  "lentil": {
+    "climate": "Cool and temperate zones",
+    "tip": "Needs fertile loamy soil and dry growing season"
+  },
+  "pomegranate": {
+    "climate": "Hot and dry climate",
+    "tip": "Grows best in well-drained loamy soil"
+  },
+  "banana": {
+    "climate": "Hot and humid tropical climate",
+    "tip": "Needs rich, well-drained soil and frequent irrigation"
+  },
+  "mango": {
+    "climate": "Tropical and subtropical regions",
+    "tip": "Requires well-drained soil and hot summers"
+  },
+  "grapes": {
+    "climate": "Warm and dry climate",
+    "tip": "Prefers sandy loam soil and requires good drainage"
+  },
+  "watermelon": {
+    "climate": "Hot and dry climate",
+    "tip": "Needs sandy loam soil and ample sunlight"
+  },
+  "muskmelon": {
+    "climate": "Warm climate with low humidity",
+    "tip": "Grows well in sandy or sandy loam soils"
+  },
+  "apple": {
+    "climate": "Cold climate with chilling hours",
+    "tip": "Requires well-drained loamy soil and good sunlight"
+  },
+  "orange": {
+    "climate": "Subtropical to tropical climate",
+    "tip": "Prefers well-drained sandy loam soil"
+  },
+  "papaya": {
+    "climate": "Warm and humid climate",
+    "tip": "Requires well-drained rich soil with good moisture"
+  },
+  "coconut": {
+    "climate": "Hot and humid coastal climate",
+    "tip": "Grows best in sandy soil with high water table"
+  },
+  "cotton": {
+    "climate": "Warm, dry climate",
+    "tip": "Needs well-drained black soil and moderate rainfall"
+  },
+  "jute": {
+    "climate": "Warm and humid with high rainfall",
+    "tip": "Requires loamy soil and standing water in early growth"
+  },
+  "coffee": {
+    "climate": "Cool, tropical highlands",
+    "tip": "Best grown in rich, well-drained soil with partial shade"
+  }
+}
